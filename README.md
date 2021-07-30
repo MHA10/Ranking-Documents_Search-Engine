@@ -1,4 +1,4 @@
-# IR-Assignment2
+# Ranking Documents / Search Engine
 
 In this assignment, you will use the index you created in Assignment 1 to rank documents and
 create a search engine. You will implement two different scoring functions and compare their
